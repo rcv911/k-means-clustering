@@ -33,9 +33,9 @@ Well, it's the most common method for clusterings.
 ## Results
 > if k = 3 
 ![](images/3clusters.gif)
-if k = 4
+>if k = 4
 ![](images/4clusters.gif)
-if k = 6
+>if k = 6
 ![](images/6clusters.gif)
 > Here some another results: if k = 2
 ![](images/2clusters.png)
