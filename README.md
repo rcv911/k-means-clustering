@@ -38,9 +38,9 @@ Well, it's the most common method for clusterings.
 > if k = 6
 ![](images/6clusters.gif)
 > Here some another results: 
->> if k = 2
+if k = 2
 ![](images/2clusters.png)
->> if k = 7
+if k = 7
 ![](images/7clusters.png)
 
 ## Learn more
