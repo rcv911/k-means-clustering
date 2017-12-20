@@ -31,6 +31,9 @@ Well, it's the most common method for clusterings.
 
 
 ## Results
+
+> Note, black star on the animations means center of cluster
+
 - if k = 3 
 ![](images/3clusters.gif)
 
